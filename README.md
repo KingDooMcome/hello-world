@@ -1,3 +1,3 @@
 # hello-world
 COSC350
-I'm an awsome person.
+I'm an awesome person.
